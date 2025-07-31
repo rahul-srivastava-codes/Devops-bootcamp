@@ -1,0 +1,9 @@
+docker run -it ubuntu (It starts a new Ubuntu container and lets you interact with it in the terminal)
+res -> root(computer name)@(separator)2772232323(host name of the server)/(directory in which we are)
+
+Let me show you one thing
+write command below in command prompt
+where python
+result -> gives location of python file
+now copy the address and paste it , then run it . You are running python 
+Is not it is great
